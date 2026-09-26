@@ -187,4 +187,10 @@ I believe in continuously learning, practicing, building projects, and improving
 > **Learn → Practice → Build → Analyze → Improve**
 
 
+## 📫 Connect With Me
+
+- 💼 LinkedIn: linkedin.com/in/sunakshi-chauhan-8692672b9
+- 📧 Email: sunakshichauhan98@gmail.com
+- 🐙 GitHub: https://github.com/Sunakshi-code
+
 ⭐️ Thanks for visiting my repository!
